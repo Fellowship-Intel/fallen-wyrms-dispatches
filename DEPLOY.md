@@ -20,13 +20,9 @@ HTTPS is required for install; GitHub Pages provides it.
 
 ## Supabase on production
 
-GitHub Actions secrets are configured. **One step left:** run the schema SQL once.
+**Live.** Schema applied, GitHub Actions secrets set, API smoke tests return HTTP 201 for subscribe, progress, and choice events.
 
-1. Open [Supabase SQL Editor](https://supabase.com/dashboard/project/sdfrazqtlpdcxckfdpyi/sql/new)
-2. Paste `supabase/migrations/001_initial.sql` and click **Run**
-3. Wait for the deploy workflow to finish (or trigger it manually)
-
-After that, subscribe, progress sync, and choice analytics work on the live site. See `supabase/SETUP.md`.
+Dashboard: [Supabase SQL Editor](https://supabase.com/dashboard/project/sdfrazqtlpdcxckfdpyi/sql/new) | See `supabase/SETUP.md` for details.
 
 ## Manual deploy (local)
 

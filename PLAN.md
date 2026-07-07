@@ -25,7 +25,7 @@ This file is the working task list. After each task, update status here and run 
 | Save/resume | `localStorage` + optional Supabase `reading_progress` |
 | Subscribe CTA | Supabase insert with honeypot; offline/error states |
 | Analytics | Typed interface; Supabase `choice_events` when configured |
-| Supabase | Migration SQL ready; client wired; **apply migration + `.env` for E2E** |
+| Supabase | **Live** (schema + RLS + GitHub secrets; API verified) |
 | PWA | Manifest, icons, `public/sw.js` (production) |
 | Tests | 22 tests, all passing |
 | Canon | Bundled at `src/canon/` (72 entries); read before writing story |
@@ -277,8 +277,8 @@ Content (Milestone 2) can overlap with reader polish if prose is ready; keep gra
 
 - [x] First-time player completes Season One on phone (20 to 40 min).
 - [x] Resume works (localStorage + Supabase when configured).
-- [x] Subscribe CTA inserts email with success/error UI.
-- [x] Choice analytics logged via typed interface.
+- [x] Subscribe CTA inserts email with success/error UI (Supabase verified).
+- [x] Choice analytics logged via typed interface (live site verified).
 - [ ] PWA installs; offline completion works after first load (manual device QA).
 - [x] `npm test` and `npm run build` pass.
 - [x] No em dashes in content.

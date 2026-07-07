@@ -25,7 +25,7 @@ That short, elegiac, choice-driven chapters in the Chronicler's voice hold atten
 6. [x] **PWA + offline.** Service worker caches app shell; icons present.
 7. [x] **Store wrap (stretch).** Documented in `platform/README.md`.
 
-**Remaining for ship:** Apply `supabase/migrations/001_initial.sql` (see `supabase/SETUP.md`), copy `.env.example` to `.env`, manual PWA install QA on a phone.
+**Remaining for ship:** Manual PWA install QA on a phone (optional). Supabase schema applied; production secrets configured; API smoke tests passing.
 
 ## Dependencies
 - **Runtime:** `@supabase/supabase-js` (optional at runtime; only used when `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` are set).
