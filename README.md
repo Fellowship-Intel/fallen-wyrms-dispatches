@@ -1,5 +1,7 @@
 # Fallen Wyrms: Dispatches (Mobile/Web MVP)
 
+**Play live:** [fellowship-intel.github.io/fallen-wyrms-dispatches](https://fellowship-intel.github.io/fallen-wyrms-dispatches/)
+
 Choice-driven interactive fiction in the Chronicler's voice. Web-first (works in any browser and installs as a PWA), later wrappable for the iOS/Android stores. This is the cheapest, fastest game MVP and a funnel to the newsletter and the novels.
 
 ## Quickstart
@@ -39,4 +41,4 @@ canon/CANON.md    world premise + voice guide (read before writing story)
 AGENTS.md         the build plan and rules for an AI coding agent
 ```
 
-See **AGENTS.md** for the MVP task list and acceptance criteria.
+See **AGENTS.md** for the MVP task list and acceptance criteria. See **DEPLOY.md** for hosting and phone install instructions.
