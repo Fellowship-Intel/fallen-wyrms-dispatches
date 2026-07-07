@@ -18,6 +18,10 @@ After the first deploy completes:
 
 HTTPS is required for install; GitHub Pages provides it.
 
+## Custom domain
+
+To use **dispatches.fallenwyrms.com** (or another subdomain), see **`docs/CUSTOM-DOMAIN.md`**.
+
 ## Supabase on production
 
 **Live.** Schema applied, GitHub Actions secrets set, API smoke tests return HTTP 201 for subscribe, progress, and choice events.
