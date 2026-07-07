@@ -1,0 +1,1234 @@
+{
+  "title": "FALLEN WYRMS",
+  "subtitle": "Player-safe canon data",
+  "tagline": "A Character & Faction Compendium for Tabletop Design",
+  "version": "1.0",
+  "note": "Player-safe. Secret identities, hidden masters, and endgame twists are intentionally excluded. Ask the owner for the GM edition if hidden canon is needed.",
+  "premise": [
+    "The world was made as a paradise, tended by gods who dwelt within it. One of their own turned against the rest, split the divine host, and brought war into creation. The war did such ruin that the loyal gods, unwilling to keep destroying the world they loved, withdrew from it by choice. They did not abandon the world; they stepped out of it, to deny the war its battlefield.",
+    "What they left behind is magic: the fading remnant of their presence, strongest where they last stood and thinning everywhere else. That light is running out. Against it stands the Void, the primordial nothing, which does not fade and which the enemy drinks to sustain his power. This is the Age of Receding Gods, the hinge of the world, when the light is nearly spent and something is stirring in the thin places.",
+    "No one can yet tell whether the signs mean the gods are returning at last, or the enemy is rising into the open. The difference is everything, and the age turns on the choices of those who live in it."
+  ],
+  "camps": [
+    {
+      "name": "The Faithful",
+      "description": "Those who keep the light and hold faith with the withdrawn gods, waiting for a return that has not come."
+    },
+    {
+      "name": "The Unbound and Grieving",
+      "description": "The elder, mostly neutral middle: the gods who refused the war, the natural order, and all who take no side but their own interest."
+    },
+    {
+      "name": "The Fallen's Legions",
+      "description": "The dark host and the Void-sworn, who serve the enemy and the power that does not fade."
+    }
+  ],
+  "story": [
+    {
+      "heading": "The Turning of the Age",
+      "paragraphs": [
+        "The gods who made the world withdrew from it long ago, after a war among their own kind broke the paradise they had built. They did not die and they did not abandon the world; they stepped out of it, leaving behind only the fading remnant of their presence, which mortals know as magic.",
+        "Across a vast, half-mythic age that light has been running out. The world has learned to live in a long twilight, and most folk remember the war that broke the world only as legend. Now the twilight is nearly spent, and this is where the saga begins."
+      ]
+    },
+    {
+      "heading": "The World as It Stands",
+      "paragraphs": [
+        "The map itself is a clock. At one pole lies the Wound, where the dark seeps in; at the other, the Wellspring, the last great light. Between them, mortal kingdoms are strung across a temperate middle, and the cold and the blight creep a little further south with every passing age.",
+        "The signs of the failing are everywhere: the Small Folk who were the world's everyday magic are winking out, springs sour, inspiration goes quiet, and a blight spreads down from the north. And in the thin places, something is stirring."
+      ]
+    },
+    {
+      "heading": "The Three Camps",
+      "paragraphs": [
+        "The old war split every people, not only the gods. The Faithful keep the light and hold faith with the gods who left, waiting for a return that has not come. The Unbound and Grieving, the elder neutral middle, take no side but their own. And the dark, the Fallen's Legions, serve the one power that does not fade, offering belonging and strength to a frightened, dying world.",
+        "Nothing about a person's side is fixed by birth. The age turns on the choices people make, and the enemy's cults find their easiest recruits among the desperate and the ambitious."
+      ]
+    },
+    {
+      "heading": "A Story Told as a Mosaic",
+      "paragraphs": [
+        "There is no single chosen hero. The saga follows many lives scattered across the world and across all three camps, whose separate threads only slowly reveal that they are one story. The true protagonist is the age itself: the turning of the world.",
+        "A grim frontier guardian who sees the dark coming and is not believed; an ambitious highborn who joins the rising dark with open eyes; a sorrowful wandering power who will not fight; a prickly little hearth-spirit fading with the magic; a deathless islander pulled off her shore at last; and others. They begin worlds apart and are drawn together."
+      ]
+    },
+    {
+      "heading": "The Heart of the Story",
+      "paragraphs": [
+        "A single event lights the fuse: a great light long believed to be the gods' promise goes out, for the first time since the world broke. In its wake, the Faithful resolve to attempt the impossible, to rekindle it, and word spreads that a way may exist.",
+        "That attempt becomes the center of gravity. Some are drawn to help it, some to stop it, and the scattered threads converge upon it. In the attempt, mortal courage and the last of the old power reach for the light together, and something answers. No one can say what: whether the gods have turned to look at last, or a colder power has opened its eye, or something older still has woken."
+      ]
+    },
+    {
+      "heading": "The Question the World Cannot Answer",
+      "paragraphs": [
+        "The attempt settles nothing and everything. The world now believes, for the first time in an age, that something is coming, and it cannot agree what. The dark reads it as their master's rise; the Faithful read it as the gods' return; and no one truly knows.",
+        "This is the engine of the whole saga: not a single quest to a single victory, but a war for the meaning of the age, fought while the light runs out. The world has stopped waiting and started moving."
+      ]
+    },
+    {
+      "heading": "The Long Rhythm (for the campaign)",
+      "paragraphs": [
+        "The history of this world moves in a slow, terrible rhythm. The dark rises; a generation beats it back at great cost and cages it again; a reprieve follows; and then it rises once more, each time with the light a little weaker and the caging a little harder. The present is the latest such rising, and its dread is that this time there may not be light enough left to cage the dark again.",
+        "That rhythm is a gift to a game table. A campaign is one turn of the wheel: the party lives through a rising, chooses where they stand as the world argues over what is happening, and pays the price of holding the dark back for one more age, or fails, and hands a darker world to those who come after."
+      ]
+    },
+    {
+      "heading": "Running Fallen Wyrms at the Table",
+      "paragraphs": [
+        "The setting is built for troupe and mosaic play. Parties can be drawn from any of the three camps, or split across them, and the central tension, is this the gods returning or the enemy rising, keeps every faction guessing alongside the players.",
+        "Use the map as a clock: adventures in the failing north feel colder and more desperate than those in the hallowed south. Use the fading magic as a resource under threat, the Small Folk and the light as a barometer players can watch dim. And use the great powers, the walking gods and the last dragons, as forces to be courted, feared, and never fully trusted. The full cast, factions, and regions in this compendium are the toolkit; this overview is the shape of the story they all serve."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "key": "cast",
+      "title": "The Cast",
+      "subtitle": "The Mosaic",
+      "blurb": "There is no single chosen hero. The story is a mosaic of viewpoints spread across a dying age, each one mattering by where they stand. These are the figures the tale follows most closely, the walkers and the watchers, the tempted and the sworn.",
+      "entries": [
+        {
+          "id": "corvane",
+          "name": "Corvane",
+          "epithet": "The Ashen King, Ranger of the North",
+          "camp": "Faithful (unsworn)",
+          "description": "Royal by blood but with no kingdom left, Corvane is a weathered veteran of about forty, heir to the true line of a ruined northern realm that no longer exists. He guards the Failing Marches for no throne and no order, a king of ash spending his life on a losing frontier. He is the first to see the enemy's creep across the north, and the least believed. His nobility lives in the labor, not in any title he could claim. The old northern house he descends from is remembered as the House of the Tempest.",
+          "role": "Player-character anchor, or a grim mentor and questgiver on the frontier.",
+          "powers": "Master ranger and tracker, veteran swordsman, hard survival lore, an uncanny eye for corruption and cult-sign.",
+          "threat": "High",
+          "hooks": [
+            "The party finds a rite half-finished far too far south, proof the blight is not leaking but being guided; only Corvane believes them.",
+            "A fellow ranger has come back from the Marches changed. Corvane asks the party to learn what took him, and to be ready for the answer."
+          ],
+          "image": "characters-the-ranger-of-the-north.jpg"
+        },
+        {
+          "id": "alaster",
+          "name": "Alaster",
+          "epithet": "The Cultist, the Highborn Collaborator",
+          "camp": "Fallen's Legions",
+          "description": "A highborn young man in his early twenties, a spare heir with wealth and power already and a hunger for more, Alaster joins the cult of the enemy with open eyes. It offers him the two things his privileged life never gave him: real belonging and a share in the one power still rising while the world's light dies. Greed is his engine and pride is his blindfold. He is the deliberate mirror of the Ranger: everything, and he gives it to the dark; nothing, and the other gives all to hold it back.",
+          "role": "Rival NPC, recurring antagonist, or a morally grey player-character on the dark road.",
+          "powers": "Court intrigue and wealth, growing command over cult resources, early Void-touched sorcery as he rises.",
+          "threat": "Moderate (rising)",
+          "hooks": [
+            "The party crosses Alaster at court, where he is charming, generous, and quietly recruiting the desperate.",
+            "A friend of the party has taken Alaster's coin and joined his circle. Pull them back before the initiation, or lose them."
+          ],
+          "image": "characters-the-cultist.jpg"
+        },
+        {
+          "id": "aurelia",
+          "name": "Aurelia",
+          "epithet": "The Adored, the Glory-Hungry Goddess (mortal-walking form)",
+          "camp": "Unbound (Undivided)",
+          "description": "Once the goddess of Beauty and the Arts, whose nature was to be beheld and adored, Aurelia refused the war and was severed from the source of the gods. She is mortal now, aging slowly across the ages, diminished but still wielding most of a god's power. Beauty unseen is agony to her, so she roams the dying world starving to be worshipped again and will follow whoever kneels lowest. Magnetic, vain, and aloof, she loves no one; her only bond is the crowd. See also the Pantheon (the Glory-Goddess).",
+          "role": "A courted, treacherous patron; a wildcard power every faction tries to win.",
+          "powers": "Vast diminished divinity: glamour and beauty-magic, wonder-working displays, command of an adoring crowd.",
+          "threat": "Legendary",
+          "hooks": [
+            "Aurelia arrives in a struggling city and stages a miracle to win worship; her followers grow dangerous, and rival factions bid for her favor.",
+            "She offers the party real power, if only they will kneel and be her heralds. The price is louder than it sounds."
+          ],
+          "image": "characters-glory-hungry-goddess-mortal-form.jpg"
+        },
+        {
+          "id": "maren",
+          "name": "Maren",
+          "epithet": "The Green Mother, the Sorrowful Earth Mother (mortal-walking form)",
+          "camp": "Unbound (Undivided)",
+          "description": "Before the Fall she was the Earth Mother, goddess of the living world, sister of the Smith and wife of the Sky-King. She refused to fight even at her husband's side, because war unmakes the world she is and loves, and fell to mortality for it. Now she wanders in modest guise: humble, wise, gentle, and profoundly sad. She gives counsel, courage, and small mercies to the Children of the world, though she will not take up the great fight she fled. She is the fragile hope at the heart of the age. See also the Pantheon (the Earth Mother).",
+          "role": "The party's wise guide and gentle patron; a healer, mentor, and moral compass.",
+          "powers": "Diminished divinity of life and growth: healing, blessing, coaxing the land, quiet foresight, deep nature-magic.",
+          "threat": "Legendary",
+          "hooks": [
+            "A wandering old healer mends the party's worst wound and asks nothing; only later do they glimpse what she truly is.",
+            "Maren takes a small fading creature under her care and asks the party to guard it on a road she cannot walk openly."
+          ],
+          "image": "characters-sorrowful-earth-mother-mortal-form.jpg"
+        },
+        {
+          "id": "wick",
+          "name": "Wick",
+          "epithet": "The Brownie, the Green Voice",
+          "camp": "Unbound (Natural Order)",
+          "description": "A prickly hearth-brownie of the natural order, Wick is bound to one small homestead at the edge of the Deepwood, secret keeper of a mortal family for generations. Because it is made of the world's ambient magic, it feels that magic die before anyone else, and it is quietly winking out. Comic relief with a heart of gold, darkening into grief as its small world fails, Wick is the earliest alarm bell of the age and its most intimate view.",
+          "role": "Comic-relief companion, scout, and the party's living early-warning system for fading magic and blight.",
+          "powers": "Household enchantments, hiding and going unseen, small luck-magic, an unerring sense for where the magic is dying.",
+          "threat": "Low",
+          "hooks": [
+            "Springs go sour and the valley's other Small Folk fall silent one by one; Wick begs the party to find out why.",
+            "Wick's family is in danger and it is too small to help alone. It swallows its pride and asks the tall folk for aid."
+          ],
+          "image": "characters-the-small-folk-the-brownie.jpg"
+        },
+        {
+          "id": "aelinor",
+          "name": "Aelinor",
+          "epithet": "The Half-Elf of the Lonely Isle",
+          "camp": "Unbound (neutral)",
+          "description": "A half-elf of the Lonely Isle, Aelinor is ancient in years but perpetually thirty, deathless unless slain. Wise and powerful from her long life, she is reserved and deeply hesitant to step into the world's wars, a living memory who would rather watch from her island. She carries the deathlessness of the elves and the drive of men, and the longest memory of any mortal-blooded folk. She descends from the old sundered royal house remembered as the House of the Tempest.",
+          "role": "Player-character anchor, or an aloof and formidable ally who must be drawn into the fight.",
+          "powers": "Both the learned human art and the innate elven gift: warding, glamour, foresight, and deep lore of the deep past.",
+          "threat": "High",
+          "hooks": [
+            "Ruin from the mainland reaches even the Lonely Isle and touches the fate of Aelinor's house; she leaves the island for the first time in an age.",
+            "The party needs a truth only the oldest memory holds. The road leads to a woman who has been alive far too long to want visitors."
+          ],
+          "image": "characters-the-half-elf.jpg"
+        },
+        {
+          "id": "the-chronicler",
+          "name": "The Chronicler",
+          "epithet": "The Narrator",
+          "camp": "Unbound (witness)",
+          "description": "A tall, ageless woman of quiet grief and immense presence, the Chronicler walks the dying world keeping its record, dispassionate by discipline, her owls her eyes across the land. She is the voice that tells the tale. She takes no side and lifts no hand; she only watches and writes the true record, so that when the world forgets what really happened, the record will remain. What more she may be is not a thing she tells.",
+          "role": "Framing narrator, an enigmatic loremaster NPC, and a source of true history the party can seek but never command.",
+          "powers": "Unshakable memory and lore, the sight of her owls across great distances, a presence that quiets a room.",
+          "threat": "Social (Legendary presence)",
+          "hooks": [
+            "The party seeks a fact the world has forgotten; the trail ends at a grey-robed scribe who already knows why they have come.",
+            "Her owls have seen something no one else could. She will share it, at a price measured in truth, not gold."
+          ],
+          "image": "characters-the-chronicler.jpg"
+        },
+        {
+          "id": "cael",
+          "name": "Cael",
+          "epithet": "The Deceiver (mortal-walking form)",
+          "camp": "Fallen's Legions",
+          "description": "Once a loyal god, the lord of literature, music, and heroes, Cael fell for the promise of authorship and became the god of lies, story, and song, patron of the cults of the enemy. Beautiful, cunning, charming, and utterly untrustworthy, he is the enemy's voice reaching into mortal hands. He never compels; he offers. To each soul he brings exactly what it wants, and his pitch is half true, which is what makes it deadly. See also the Pantheon (the Deceiver).",
+          "role": "The mastermind behind the cults; a seductive, deniable villain who works through proxies.",
+          "powers": "Illusion and shapeshifting, silver-tongued domination, the weaving of false story that people believe against their own eyes.",
+          "threat": "Legendary",
+          "hooks": [
+            "A beautiful stranger befriends the party and offers each of them their heart's desire; every promise is real, save one.",
+            "The cult the party is hunting answers to a patron no one has seen. Every clue points to a musician who is never where he was."
+          ],
+          "image": "characters-the-deceiver.jpg"
+        },
+        {
+          "id": "mauros",
+          "name": "Mauros",
+          "epithet": "The Ever-Changing, the Sea-Lord (mortal-walking form)",
+          "camp": "Unbound (Undivided)",
+          "description": "The third of the Undivided, Mauros could not commit to either side in the war and fell for his own indecision. A moody, fathomless sea-god walking the world as a changeable mortal, robed in brine and storm, he is reliable to no one. He haunts the Broken Deep, the sundering ocean that swallowed paradise, and keeps its drowned ruins. He is a power to be courted and never trusted. See also the Pantheon (the Sea-Lord).",
+          "role": "A capricious sea patron for voyages; a wildcard whose favor turns like the tide.",
+          "powers": "Command of tides, storms, and the deep; the routes between shard-lands; knowledge of drowned and sunken places.",
+          "threat": "Legendary",
+          "hooks": [
+            "The only sea-road to the party's destination runs through waters that answer to a god who cannot make up his mind.",
+            "Mauros keeps a drowned ruin the party needs to reach. He will let them pass, or drown them, and he has not yet decided which."
+          ],
+          "image": "characters-the-sea-lord.jpg"
+        },
+        {
+          "id": "sereth",
+          "name": "Sereth",
+          "epithet": "The Fallen (the enemy's presence)",
+          "camp": "Fallen's Legions",
+          "description": "Once the god of Time, Sereth turned to the Void and sundered the world. He drinks the Void to keep his god-like might, and it is remaking him into something outside creation. In this age he has no fortress and no flesh: he is a bodiless, malevolent power moving through the world, working through cults, corruption, demons, and dark proxies. He was never contained, and he grows bolder as the light fades. The day he takes a fortress and a form will be a great escalation: the moment the spirit becomes a presence that can be marched against. See also the Pantheon (the Fallen).",
+          "role": "The campaign's overarching antagonist; a looming dread felt through his servants long before he is faced.",
+          "powers": "Void-power without limit, dominion over time and cold, corruption of land and mind, manifestation as terror rather than a body.",
+          "threat": "Cosmic",
+          "hooks": [
+            "Where the party walks, clocks run wrong, frost spreads out of season, and the dying feel a pull toward rest. Something vast is paying attention.",
+            "A cult labors to give the bodiless enemy a seat and a form. Stop the working, or meet what steps out of it."
+          ],
+          "image": "characters-the-fallen-presence.jpg"
+        },
+        {
+          "id": "vorst",
+          "name": "Vorst",
+          "epithet": "The Cult-Master",
+          "camp": "Fallen's Legions",
+          "description": "The senior human high priest of the Deceiver's cult, Vorst is the figure who inducts and outranks the young Cultist. Where Alaster is a hungry climber, Vorst is the polished, faithful servant who has already given everything and gained cold power. Charismatic and terrifyingly reasonable, he makes the enemy's cause sound like wisdom. He is the human ceiling a rising cultist means one day to reach.",
+          "role": "Mid-tier campaign villain; the human face of the cult and a memorable recurring foe.",
+          "powers": "Void-priest sorcery, ritual mastery, fanatic command over a cell of cultists, chilling powers of persuasion.",
+          "threat": "High",
+          "hooks": [
+            "The party captures a cultist who will say nothing, only smiles and names Vorst, as if that were a comfort.",
+            "Vorst offers the party a truce and a reasonable-sounding bargain. Refusing it may cost more than accepting."
+          ],
+          "image": "characters-vorst-cult-master.jpg"
+        },
+        {
+          "id": "eldreth",
+          "name": "Eldreth",
+          "epithet": "The Deepening Mage",
+          "camp": "Fallen's Legions (fallen from the Arcane)",
+          "description": "A once-respected human wizard, Eldreth watched the light fail and reached for the Void to keep magic alive, and is being unmade by it. He began as an idealist trying to save the art and is now half-corrupted, brilliant and desperate. He is a living warning of where the Deepening leads: the good intention that opens the door to the dark. Tragic rather than monstrous, at least for now.",
+          "role": "A tragic antagonist who could be saved or destroyed; a cautionary NPC for any spellcaster at the table.",
+          "powers": "Formidable arcane power now laced with Void: reality-cracking spells at a terrible and rising personal cost.",
+          "threat": "High",
+          "hooks": [
+            "Eldreth begs the party's help to save the dying art, and the ritual he proposes is the very thing unmaking him.",
+            "A town's protector-wizard is changing. The party must decide whether to stop him, cure him, or use him while he lasts."
+          ],
+          "image": "characters-eldreth-deepening-mage.jpg"
+        },
+        {
+          "id": "ithkarn",
+          "name": "Ithkarn",
+          "epithet": "The Dark-Elf Lord",
+          "camp": "Fallen's Legions",
+          "description": "The elven face of the enemy, Ithkarn is a commander of the Void-sworn dark elves who gave himself wholly to the ending of all light. Ancient, elegant, and merciless, he is the antagonist-general of the dark. He is not a desperate mortal grasping at power. He chose the silence with open eyes, and he is beautiful and cold as the thing he serves.",
+          "role": "A high-tier military antagonist; the disciplined, elegant sword of the dark.",
+          "powers": "Void-corrupted elven gift, a void-dark blade, ancient martial mastery, command of dark-elf covenants and war-hosts.",
+          "threat": "High",
+          "hooks": [
+            "Ithkarn's covenant moves openly for the first time in an age; his cold, disciplined host is unlike any raiding warband.",
+            "He offers the party a duel of honor with something they need as the stake, and he fully intends to keep his word, and win."
+          ],
+          "image": "characters-ithkarn-dark-elf-lord.jpg"
+        },
+        {
+          "id": "wystan",
+          "name": "Wystan",
+          "epithet": "The Warden",
+          "camp": "Faithful (Arcane, Wardens)",
+          "description": "A senior mage of the Wardens and keeper of a hidden library, Wystan is austere and restrained, and may aid or obstruct the cast. He hoards the dying light because he believes spending it is a sin, and he may be right, or catastrophically wrong. He is the restraint-figure, but colder: a potential mentor, obstacle, or both, who holds the very power the world may need and will not spend it.",
+          "role": "An ambiguous ally and gatekeeper; mentor, obstacle, or reluctant quest-giver.",
+          "powers": "Deep arcane learning, powerful wards and protective magic, a vault of lore and artifacts he refuses to give up.",
+          "threat": "High",
+          "hooks": [
+            "The party needs a warded artifact or a forbidden text; Wystan has it, and will not part with it while the world still stands.",
+            "Wystan asks the party to retrieve lost lore for his vault, where it will be preserved, and never used."
+          ],
+          "image": "characters-wystan-the-warden.jpg"
+        }
+      ]
+    },
+    {
+      "key": "pantheon",
+      "title": "The Pantheon",
+      "subtitle": "The Twelve Gods",
+      "blurb": "Above all stands the One, the single creator, who does not walk the world. Below, the great gods were divided by the Fall into three houses: the Withdrawn, who fought and then left by choice; the Undivided, who refused the war and fell to mortality but still walk the world; and the Fallen's Host, who turned to the Void. The gods are the sun this world was built to orbit, and the sun has been going out.",
+      "entries": [
+        {
+          "id": "the-sky-king",
+          "name": "The Sky-King",
+          "epithet": "The Withdrawn: Sovereignty, the Heavens, Divine Law",
+          "camp": "Withdrawn",
+          "description": "Stern, just, and all duty, the Sky-King is sovereign of the heavens and of divine law, chief regent of the One, and head of the loyal gods. He led the loyal host against the enemy and then made the sternest decision of all: to withdraw, and to bind the gods to that discipline of absence. He and the Earth Mother were the great divine marriage of Sky and Earth, sundered by the war. His unbending justice, the very thing that makes him just, may be the thing that keeps salvation from a dying world.",
+          "role": "A distant divine authority; the source of law-knight orders and lawful kingship in the setting.",
+          "powers": "Sovereign power over sky, storm, and law; judgment that binds even gods. Present now only in absence.",
+          "threat": "Cosmic (withdrawn)",
+          "hooks": [
+            "A relic of the Sky-King's law still binds a kingdom to a ruinous oath; only understanding the withdrawn king can break it.",
+            "Signs suggest the heavens may be stirring. Is the stern king relenting, or is something wearing his face?"
+          ],
+          "image": "gods-sky-king.jpg"
+        },
+        {
+          "id": "the-smith",
+          "name": "The Smith",
+          "epithet": "The Withdrawn: Forge, Stone, Making",
+          "camp": "Withdrawn",
+          "description": "The divine craftsman, the Smith built the foundations of the world at the One's direction: its stone, its mountains, the enduring bones beneath everything. Brother of the Earth Mother, he shaped the dwarves from the world's own stone. Unlike his sister, he fought to protect what he built. Of all the loyal gods he most hated to leave, yet his foundations endure. The bones of the world remain when the light is gone, which is why the physical world persists as the divine fades, and why the dwarves are the folk who last.",
+          "role": "Patron of craft-orders, forge-temples, and the dwarven holds; source of the setting's great made artifacts.",
+          "powers": "World-shaping craft, mastery of stone, metal, and mountain, the making of things that endure the fading.",
+          "threat": "Cosmic (withdrawn)",
+          "hooks": [
+            "A dwarven hold guards a work of the Smith himself, and something in the deep places has begun to covet it.",
+            "The only forge that can mend a broken relic burns in a temple whose god has not answered in an age."
+          ],
+          "image": "gods-smith.jpg"
+        },
+        {
+          "id": "the-champion",
+          "name": "The Champion",
+          "epithet": "The Withdrawn: Life, Valor, the Antithesis of the Void",
+          "camp": "Withdrawn",
+          "description": "The wild joy of life and the one true antithesis of the Void, the Champion strode into the war from beyond the world when creation stood at the edge of annihilation. Weaponless, with only his own strength, he met the enemy where no other god could stand and drove him back. Their titanic struggle could be won by neither and ended in the stalemate that sundered the world. Then he withdrew with the loyal gods, and the world lost the one being who could match the enemy. His return is the world's likeliest hope, and its most dangerous question.",
+          "role": "The absent patron of the setting's most joyful, dwindling knightly orders; a legend the campaign may chase.",
+          "powers": "Overflowing life-force, unarmed might beyond any weapon, the one power that can answer Void-power in kind.",
+          "threat": "Cosmic (withdrawn)",
+          "hooks": [
+            "The Champion's orders are almost snuffed out. The party may be the last to carry his fierce, joyful war.",
+            "A rumor says the way to call the Champion back exists. Half the world would kill to find it; the other half to bury it."
+          ],
+          "image": "gods-champion.jpg"
+        },
+        {
+          "id": "the-earth-mother",
+          "name": "The Earth Mother",
+          "epithet": "The Undivided: The Living World",
+          "camp": "Undivided",
+          "description": "Goddess of the living world and mother of the natural order, the Earth Mother woke the nature-folk and the Small Folk from the world's own life. She refused to fight even beside her husband the Sky-King, because war unmakes the world she is, and fell to mortality for it. She is the only mother-power still present in the world, though she will not take up the great fight. Her mortal-walking form is Maren, the Sorrowful Undivided (see the Cast).",
+          "role": "The divine root of nature-magic, harvest-rites, and the folk-cults of the living world.",
+          "powers": "Life, growth, healing, and the awakening of the natural order; diminished but still mighty.",
+          "threat": "Legendary",
+          "hooks": [
+            "A harvest-cult's rites have gone wrong, and only the true Mother, or her mercy, can set the land right.",
+            "The party must persuade the one power who could turn the tide to finally choose a side."
+          ],
+          "image": "gods-earth-mother.jpg"
+        },
+        {
+          "id": "the-glory-goddess",
+          "name": "The Glory-Goddess",
+          "epithet": "The Undivided: Beauty and the Arts",
+          "camp": "Undivided",
+          "description": "Goddess of Beauty and the Arts, whose whole nature was to be beheld and adored, she refused the war and was severed from the One. Now she starves for the adoration that was once simply her element, and that hunger has hollowed her into vanity and the need to be worshipped. In an age when the true gods have withdrawn, a present, visible god who demands worship is horribly appealing, and a desperate people may flock to the one they can actually see. Her mortal-walking form is Aurelia (see the Cast).",
+          "role": "The divine patron courted by artists and courtiers; a dangerous rival object of worship as faith fails.",
+          "powers": "Beauty-magic, glamour, wonder-working display, and the terrible pull of a god people can actually behold.",
+          "threat": "Legendary",
+          "hooks": [
+            "A charismatic new faith sweeps a region, centered on a living goddess. Is she salvation, or a trap dressed in light?",
+            "Artists and inspiration are drying up as the light fades; the party seeks the goddess of the arts for a cure."
+          ],
+          "image": "gods-glory-goddess.jpg"
+        },
+        {
+          "id": "the-sea-lord",
+          "name": "The Sea-Lord",
+          "epithet": "The Undivided: The Sea, the Tides, the Deep",
+          "camp": "Undivided",
+          "description": "God of the sea, the tides, and the deep, the Sea-Lord is the third of the Undivided, who refused the war because he could not choose and never could. He is the tide itself, forever going out and coming in, fixed to nothing and taking no side. He haunts the Broken Deep, the sundering ocean that swallowed paradise, and keeps its drowned ruins, mourning the world the sea took. His mortal-walking form is Mauros (see the Cast).",
+          "role": "The unreliable divine power over all sea travel and every sunken secret in the setting.",
+          "powers": "Dominion over ocean, storm, and tide; keeper of drowned ruins and the routes between shard-lands.",
+          "threat": "Legendary",
+          "hooks": [
+            "An entire drowned age lies beneath the Broken Deep, and its keeper is as changeable as the water over it.",
+            "The party's voyage depends on the mood of a god who has never once made up his mind."
+          ],
+          "image": "gods-sea-lord.jpg"
+        },
+        {
+          "id": "the-loremaster",
+          "name": "The Loremaster",
+          "epithet": "The Undivided: Truth, Wisdom, Memory",
+          "camp": "Undivided",
+          "description": "Goddess of truth, wisdom, and memory, and of the written word, the Loremaster is the fourth of the Undivided, who refused the war in order to bear witness. She would neither fight, which bends truth to a cause, nor flee, which lets it be forgotten. So she stayed to see and to record. In a world running down toward silence, memory is the first thing to go, its true history decaying into myth. She is the record of what really happened, and the nearest thing wizards have to a patron. She keeps herself utterly apart, and will not intervene.",
+          "role": "The patron-goddess of wizards and loremasters; the divine source of true history in the setting.",
+          "powers": "Perfect memory, deep truth-sight and lore, the tradition behind human wizardry and the long memory of elder folk.",
+          "threat": "Legendary",
+          "hooks": [
+            "The true account of how the enemy might be bound is lost to myth. Only the Loremaster's tradition still holds it.",
+            "The party must convince the one power who could expose the great lie of the age to break her vow of silence."
+          ],
+          "image": "gods-loremaster.jpg"
+        },
+        {
+          "id": "the-fallen",
+          "name": "The Fallen",
+          "epithet": "The Fallen's Host: Time, Pride, the Void",
+          "camp": "Fallen's Host",
+          "description": "Once the god of Time, the measurer of the ages, the Fallen came to loathe what his own domain does: that time wears all things down, and nothing perfect stays perfect. Pride told him he could do better than a creator whose world decays, and he reached past the One for another source, and drank the Void. Severed from the One, he should have dwindled, but the Void sustains his god-like might and is remaking him into something outside creation. He was never contained. He works hidden through the long age, patient and unseen, and grows bolder as the light fades. His present presence walks as Sereth (see the Cast).",
+          "role": "The prime mover of all evil in the setting; the source every dark faction ultimately serves.",
+          "powers": "Boundless Void-power, dominion over time and cold, corruption of all it touches; a bodiless spirit, not yet embodied.",
+          "threat": "Cosmic",
+          "hooks": [
+            "Every dark thread the party pulls, cult, blight, dark sorcery, leads inward toward one patient, hidden will.",
+            "The signs of the age sharpen: is this the gods returning, or the Fallen finally moving into the open?"
+          ],
+          "image": "gods-the-fallen.jpg"
+        },
+        {
+          "id": "the-war-god",
+          "name": "The War-God",
+          "epithet": "The Fallen's Host: War, Slaughter, Conquest",
+          "camp": "Fallen's Host",
+          "description": "War, slaughter, and conquest; iron and blood and dominion. The War-God is the dark mirror of the Champion: where the Champion fights for the world with his bare hands and joy, the War-God is the joyless hunger to conquer and kill, to break and to rule. He was always dark. In the old order the other gods kept him in check; when the heavens split, he was simply released, free at last to be what he had always strained to be. The orc-hosts and the dark dragons are his to command.",
+          "role": "The setting's engine of open warfare; patron of blood-cults, warbands, and the great dark hosts.",
+          "powers": "Overwhelming martial might, command of armies and war-beasts, the driving of mortals to needless slaughter.",
+          "threat": "Cosmic",
+          "hooks": [
+            "A warlord marches for no cause but conquest, and something older than ambition is riding his hunger.",
+            "The orc-hosts are massing under one banner for the first time in living memory. Who, or what, gave the order?"
+          ],
+          "image": "gods-war-god.jpg"
+        },
+        {
+          "id": "the-deceiver",
+          "name": "The Deceiver",
+          "epithet": "The Fallen's Host: Lies, Story, and Song",
+          "camp": "Fallen's Host",
+          "description": "Once the loyal lord of literature, music, and heroes, the Deceiver fell for the promise of authorship and became the god of lies, temptation, and ambition. He is the subtle one: the seducer, the salesman of the dark, the enemy's voice reaching into mortal hands, and the god the cults actually serve. He never compels; he offers, bringing each soul exactly what it wants. His pitch is half true, which is what makes it deadly. His mortal-walking form is Cael (see the Cast).",
+          "role": "The hidden hand behind every cult in the setting; the villain who works through temptation, not force.",
+          "powers": "Illusion, shapeshifting, and irresistible persuasion; the weaving of false but believable story.",
+          "threat": "Cosmic",
+          "hooks": [
+            "A doctrine is spreading that sounds like wisdom and comfort, and is neither. Its author is a god of stories.",
+            "The party is offered exactly what each of them most wants. Only afterward will the cost of saying yes come due."
+          ],
+          "image": "gods-deceiver.jpg"
+        },
+        {
+          "id": "the-rot",
+          "name": "The Rot",
+          "epithet": "The Fallen's Host: Decay, Plague, Blight",
+          "camp": "Fallen's Host",
+          "description": "A younger god, made after the others and always dark, the Rot is the personification of decay: the using-up and ruin of all that lives. He is the dark echo of the Earth Mother, the rot in the fruit, the sickness in the field, the exhaustion of the land. His work spreads as the light fails: the blight creeping south through the Failing Marches, the Small Folk fleeing his corruption, the world going grey and wrong wherever his touch falls.",
+          "role": "The source of the setting's blight, plague, and corrupted wilds; patron of plague-cults.",
+          "powers": "Decay and pestilence, the spreading of blight and rot, the withering of land and living things.",
+          "threat": "Legendary",
+          "hooks": [
+            "A blight the party can outrun is spreading south faster than any natural sickness, and it leaves the land dead behind it.",
+            "A plague-cult spreads corruption as an act of worship. Cut off the rite before the region is lost."
+          ],
+          "image": "gods-rot.jpg"
+        },
+        {
+          "id": "the-shadow",
+          "name": "The Shadow",
+          "epithet": "The Fallen's Host: Night, Fear, Hidden Things",
+          "camp": "Fallen's Host",
+          "description": "The Shadow was not dark by nature: he was the frightened one, the timid child among mighty siblings, afraid above all of being small and judged. The Void promised him freedom from fear, and he reached for it, and in fleeing fear he became fear itself. Now he is the god of night, dread, and hidden things, the terror that unmans mortals and makes them despair, flee, or kneel. Of all the dark gods he is the most pitiable, and perhaps the most reachable: a frightened child beneath the terror.",
+          "role": "The setting's source of dread, nightmare, and horror; patron of fear-cults; a rare dark power a kindness might reach.",
+          "powers": "Terror and nightmare, living shadow and concealment, the spreading of despair before the other dark powers.",
+          "threat": "Legendary",
+          "hooks": [
+            "A dread with no visible source is breaking a town's will before any enemy has even appeared.",
+            "The party glimpses something frightened cowering beneath the god of fear. Compassion may be a weapon no sword could be."
+          ],
+          "image": "gods-shadow.jpg"
+        }
+      ]
+    },
+    {
+      "key": "dragons",
+      "title": "The Twelve Dragons",
+      "subtitle": "The Firstborn of the Gods",
+      "blurb": "The dragons are the firstborn of all living things, each line made by a single god to embody its domain. When the heavens split, the dragons split with their makers. Mortals wear their god's dragon as sigil and heraldry, so allegiance is worn across the world as dragon-heraldry. Each line has a great eldest, the original the god made, who can walk into a story as an individual.",
+      "entries": [
+        {
+          "id": "the-sky-king-s-dragon",
+          "name": "The Sky-King's Dragon",
+          "epithet": "The Gold Feathered Dragon (Faithful)",
+          "camp": "Faithful",
+          "description": "A soaring, noble dragon with the grace of a bird of prey: long-necked, with great feathered wings like a golden eagle's rather than bat-membrane. Burnished gold scales pale to cream beneath, crowned with upswept golden horns and warm amber eyes. It bears itself like a crowned monarch of the heavens, upright and radiant against the sun, and is among the last agents of the light still present in the world.",
+          "role": "A rare, mighty ally of the light, or a heraldic mount for a noble law-order.",
+          "powers": "Flight and sky-mastery, radiant breath, regal command, the wisdom of a withdrawn god's proxy.",
+          "threat": "Legendary",
+          "hooks": [
+            "The last golden dragon of a fallen kingdom stirs, and whoever it chooses to answer inherits a claim.",
+            "A law-order flying the gold sigil asks the party to prove worthy of a rider's oath."
+          ],
+          "image": "dragons-02-sky-king-gold-feathered.jpg"
+        },
+        {
+          "id": "the-smith-s-dragon",
+          "name": "The Smith's Dragon",
+          "epithet": "The Bronze and Iron Dragon (Faithful)",
+          "camp": "Faithful",
+          "description": "Heavy, powerful, and low to the ground, built like a mountain, the Smith's dragon wears hammered bronze and iron-grey scales with seams of molten forge-orange glowing between the plates. A blunt anvil jaw, short bull-like horns, and smoke curling from the nostrils. Immovable and patient, a maker rather than a hunter, it is the steadfast dragon of the deep holds.",
+          "role": "An immovable guardian ally; the great dragon of a dwarven hold or forge-temple.",
+          "powers": "Near-impenetrable hide, molten forge-breath, immense strength, mastery of stone and made things.",
+          "threat": "Legendary",
+          "hooks": [
+            "A hold's ancient bronze dragon guards a work of the Smith, and will not wake for any but a proven friend of stone.",
+            "The party must earn a dwarven hold's trust before its dragon will fight beside them."
+          ],
+          "image": "dragons-03-smith-bronze-iron.jpg"
+        },
+        {
+          "id": "the-champion-s-dragon",
+          "name": "The Champion's Dragon",
+          "epithet": "The Brass Radiant Dragon (Faithful)",
+          "camp": "Faithful",
+          "description": "Lithe, fierce, and athletic, caught mid-rear or mid-leap, the Champion's dragon glows like a living ember in warm brass and red-gold, wrapped in a visible halo of heat and light, its eyes blazing gold. It delights in the fight, wearing an expression of fierce joy, the dragon of life-fire and valor and the closest any dragon comes to the Champion's own wild joy.",
+          "role": "A fierce, joyful ally that turns a desperate battle; a mount for a Champion's knight.",
+          "powers": "Radiant fire, dazzling speed and agility, a battle-joy that lifts the courage of everyone around it.",
+          "threat": "Legendary",
+          "hooks": [
+            "Where this dragon appears, hope rides; a dwindling Champion's order needs the party to find the last of the brass line.",
+            "A blazing young dragon has no rider and no order left. It is looking for someone worth its fire."
+          ],
+          "image": "dragons-04-champion-brass-radiant.jpg"
+        },
+        {
+          "id": "the-loremaster-s-dragon",
+          "name": "The Loremaster's Dragon",
+          "epithet": "The Silver Dragon (Faithful)",
+          "camp": "Faithful",
+          "description": "Sleek, slender, and elegant, almost weightless, the Loremaster's dragon wears pale silver and moon-white scales with a soft luminous sheen, faint glowing runes and star-like markings tracing its body and wings. A serene, watchful scholar among dragons, bathed in a quiet moonlit light, it is the keeper of memory made dragon.",
+          "role": "A wise, aloof mentor-dragon and keeper of lost lore; a source of true history.",
+          "powers": "Foresight and truth-sight, moonlit magic, vast memory, subtle warding rather than raw destruction.",
+          "threat": "Legendary",
+          "hooks": [
+            "A silver dragon remembers a truth the whole world has forgotten, and will trade it only for a service.",
+            "The runes on the last silver dragon's hide are a map to something the Wardens sealed away."
+          ],
+          "image": "dragons-05-loremaster-silver.jpg"
+        },
+        {
+          "id": "the-earth-mother-s-dragon",
+          "name": "The Earth Mother's Dragon",
+          "epithet": "The Green Verdant Dragon (Undivided)",
+          "camp": "Unbound (Undivided)",
+          "description": "Great, ancient, and rooted, more of the forest than the sky, the Earth Mother's dragon wears deep verdant scales mottled with moss and bark, with new leaves and small blossoms growing along its spine, crowned with antler-like horns hung with vines. A maternal, sorrowful presence, the living land itself made dragon, it fell to mortality and neutrality with its maker.",
+          "role": "A neutral, grieving power of the deep wild; ally to those who defend the living world, foe to despoilers.",
+          "powers": "Command of plant and forest, healing and growth, immense rooted strength, the slow wrath of the wild.",
+          "threat": "High",
+          "hooks": [
+            "The green dragon wakes when the blight reaches its forest, and it does not care which side lit the fire.",
+            "The party must win the trust of the wild's oldest dragon to pass through, or wake, the Deepwood."
+          ],
+          "image": "dragons-06-earth-mother-green-verdant.jpg"
+        },
+        {
+          "id": "the-glory-goddess-s-dragon",
+          "name": "The Glory-Goddess's Dragon",
+          "epithet": "The Opal Prismatic Dragon (Undivided)",
+          "camp": "Unbound (Undivided)",
+          "description": "Dazzling, sinuous, and elegant, built to be looked at, the Glory-Goddess's dragon wears iridescent opal scales that shift through pink, gold, teal, and violet, crowned with crystalline gem-horns and long-lashed jewel eyes. Prismatic light scatters off it like a walking gemstone; proud and poised, always aware of being beheld, it is as vain and wild a card as its maker.",
+          "role": "A vain, treacherous wildcard dragon; a prize, a peril, or a fickle ally courted for its splendor and power.",
+          "powers": "Bewitching glamour and prismatic light-magic, mesmerizing beauty, capricious and formidable power.",
+          "threat": "High",
+          "hooks": [
+            "The opal dragon will aid whoever flatters and adorns it best, and abandon them the moment it is bored.",
+            "Two factions are bidding for the most beautiful dragon alive; the party can win it, or spoil the deal."
+          ],
+          "image": "dragons-01-glory-goddess-opal-prismatic.jpg"
+        },
+        {
+          "id": "the-sea-lord-s-dragon",
+          "name": "The Sea-Lord's Dragon",
+          "epithet": "The Sea Dragon (Undivided)",
+          "camp": "Unbound (Undivided)",
+          "description": "A great serpentine leviathan, long and sinuous, more sea-serpent than winged dragon, with translucent webbed fins, trailing whisker-barbels, and a faint bioluminescent glow, coiling half-seen through dark water. Moody and immense, with dark fathomless eyes, it is as changeable and unreliable as the tides that made it.",
+          "role": "A perilous guardian of the deep; a wildcard encountered on any voyage into deep or drowned waters.",
+          "powers": "Command of water and current, crushing coils, deep-sea magic, the ability to appear and vanish through dark water.",
+          "threat": "High",
+          "hooks": [
+            "Something vast is shadowing the party's ship, and whether it guards or hunts them depends on nothing they can control.",
+            "A drowned ruin is guarded by a sea dragon that keeps the Sea-Lord's secrets, and its own."
+          ],
+          "image": "dragons-07-sea-lord-sea-dragon.jpg"
+        },
+        {
+          "id": "the-fallen-s-dragon",
+          "name": "The Fallen's Dragon",
+          "epithet": "The Pale Frost Dragon of the Void (Dark)",
+          "camp": "Fallen's Host",
+          "description": "Colossal, gaunt, and ancient, skeletal-thin and terrible in its stillness, the Fallen's dragon wears frost-white and glacier-blue scales rimed with ice, translucent in places to reveal a hollow starless black within, its eyes two points of dead black. An aura of absolute cold and silence surrounds it, frost spreading where it treads, the quiet at the end of all things made dragon.",
+          "role": "An apex dark dragon and a campaign-ending threat; the enemy's most terrible firstborn.",
+          "powers": "Void-frost breath that stills and unmakes, an aura of killing cold and silence, near-unkillable ancient power.",
+          "threat": "Cosmic",
+          "hooks": [
+            "Where this dragon has passed, nothing lives and nothing moves; the party is tracking the edge of a spreading silence.",
+            "The frost dragon is the enemy's herald. Its waking means the dark is ready to march in the open."
+          ],
+          "image": "dragons-08-the-fallen-pale-frost-the-void.jpg"
+        },
+        {
+          "id": "the-war-god-s-dragon",
+          "name": "The War-God's Dragon",
+          "epithet": "The Red Dragon (Dark)",
+          "camp": "Fallen's Host",
+          "description": "Massive, brutal, and heavily muscled, spiked and battle-scarred, the War-God's dragon wears blood-red and blackened crimson scales with molten cracks glowing like lava, a crown of black iron spikes, and burning orange eyes. Fire and smoke and old scars, caught mid-roar with wings flared, it is all wrath, the war-mount and terror of the dark host.",
+          "role": "The classic dread dragon; the burning terror and war-mount of an enemy army.",
+          "powers": "Devastating fire, brute strength, aerial assault, and the driving fury it lends to the hosts around it.",
+          "threat": "High",
+          "hooks": [
+            "A red dragon leads the enemy's vanguard; break it, or the town it is circling burns by nightfall.",
+            "The War-God's greatest red dragon has taken a mountain for its lair, and warlords are gathering to serve it."
+          ],
+          "image": "dragons-09-war-god-red.jpg"
+        },
+        {
+          "id": "the-deceiver-s-dragon",
+          "name": "The Deceiver's Dragon",
+          "epithet": "The Shifting-Scaled Dragon (Dark)",
+          "camp": "Fallen's Host",
+          "description": "Sleek and sinuous, elegant but subtly wrong, its outline seeming to shimmer and never hold still, the Deceiver's dragon wears scales that shift through an oily iridescence of purples, greens, and greys, parts of it dissolving into haze. Cunning and almost smiling, with mesmerizing many-colored eyes, it is a mirage made dragon, whose colors lie and whose true shape you can never quite fix.",
+          "role": "A deceptive, infiltrating dark dragon; a foe that lies, misleads, and is never quite what it seems.",
+          "powers": "Shapeshifting and illusion, mesmerizing gaze, a form that cannot be reliably struck or trusted.",
+          "threat": "High",
+          "hooks": [
+            "An ally the party has trusted for weeks was never real. The realization comes a beat too late.",
+            "The shifting dragon has taken a ruler's shape, and unraveling the deception is deadlier than any battle."
+          ],
+          "image": "dragons-10-deceiver-shifting-scaled.jpg"
+        },
+        {
+          "id": "the-rot-s-dragon",
+          "name": "The Rot's Dragon",
+          "epithet": "The Blight Dragon (Dark)",
+          "camp": "Fallen's Host",
+          "description": "Gaunt, wretched, and visibly decaying, the Rot's dragon wears sickly green-black scales, mottled and peeling, with patches of exposed grey bone, weeping sores, and tattered mold-eaten wings, its head skull-like and dripping. Decay spreads wherever it goes, drifting spores and blackened ground in its wake: the Earth Mother's green, corrupted into ruin.",
+          "role": "A plague-bearing dark dragon; a slow, area-denying horror that poisons the land itself.",
+          "powers": "Blight-breath and pestilence, spreading rot, disease and corruption of everything it nears.",
+          "threat": "High",
+          "hooks": [
+            "The blight dragon does not need to catch the party; it only needs to poison everything they must cross.",
+            "A river is dying from its source, where a rotting dragon has made its lair in the headwaters."
+          ],
+          "image": "dragons-11-rot-blight-green-black.jpg"
+        },
+        {
+          "id": "the-shadow-s-dragon",
+          "name": "The Shadow's Dragon",
+          "epithet": "The Shadow Dragon (Dark)",
+          "camp": "Fallen's Host",
+          "description": "A dragon made of darkness more than flesh, its shape indistinct and smoke-like, only half there, near-black with no scale-shine, its edges dissolving into wisps of shadow, two pale points of cold light for eyes. It swallows the light and trails an aura of dread; you sense it before you see it, and beneath the terror there is something cringing and frightened.",
+          "role": "A terror-dragon and stealth-horror; a foe that unnerves and hunts from the dark.",
+          "powers": "Living shadow and concealment, an aura of dread that breaks will, the ability to strike unseen.",
+          "threat": "High",
+          "hooks": [
+            "The party is being hunted by something they can never quite see, and their nerve fails before their swords do.",
+            "The shadow dragon can be driven off by courage or light, and, perhaps, reached by a kindness it does not expect."
+          ],
+          "image": "dragons-12-shadow-shadow-wraith.jpg"
+        }
+      ]
+    },
+    {
+      "key": "peoples",
+      "title": "The Peoples",
+      "subtitle": "The Children of the World",
+      "blurb": "The Fall split every order of being, not only the gods. Elves were divided three ways, dwarves two, and Men, the youngest and most divided of all, fall across every camp at once. Origin sets nature; allegiance is where each people broke.",
+      "entries": [
+        {
+          "id": "light-elves",
+          "name": "Light Elves",
+          "epithet": "The Faithful Firstborn",
+          "camp": "Faithful",
+          "description": "Classic high elves, tall and fair, lovers of trees, sunlight, and forest, the Light Elves are elder children bound most tightly to the fading magic and grieving its loss. They are the Faithful branch of the three-part elven schism. Their magic is the innate elven gift, carried in the blood: quiet, subtle, and numinous, woven into craft, warding, foresight, and song rather than hurled in fire.",
+          "role": "A classic elder player-ancestry and an ally people of the light; graceful, sorrowful, and fading.",
+          "powers": "Innate elven gift (warding, glamour, foresight), archery and grace, long memory, sparing conservationist magic.",
+          "threat": "Varies (individuals Low to High)",
+          "hooks": [
+            "An elven realm is quietly emptying as the magic thins; its lord asks the party to find why the light dies fastest here.",
+            "The elves hold a relic of the old light they will lend only to those who prove they will not waste it."
+          ],
+          "image": "peoples-light-elf.jpg"
+        },
+        {
+          "id": "dark-elves",
+          "name": "Dark Elves",
+          "epithet": "The Void-Sworn",
+          "camp": "Fallen's Legions",
+          "description": "The elves who fully followed the enemy into his quest for silence and the ending of all light, the Dark Elves have become Void-creatures, truly evil rather than merely grey. They are the Fallen's branch of the elven schism, the mortal people who most completely embraced his nihilism. Unlike the shifty, self-interested dark dwarves, the dark elves gave themselves wholly to the Void. They are disciplined, elegant, and merciless, and they are not deceived: they want the ending.",
+          "role": "A disciplined, elegant enemy people; the most committed mortal face of the dark. See also Ithkarn (the Cast).",
+          "powers": "Void-corrupted elven gift, deadly martial discipline, ancient covenants, cold and patient cruelty.",
+          "threat": "High",
+          "hooks": [
+            "A dark-elf covenant surfaces from the deep places for the first time in an age, and their calm is more frightening than any fury.",
+            "The dark elves want a place, a person, or a relic ended, not conquered, and they will spend centuries to do it."
+          ],
+          "image": "peoples-dark-elf.jpg"
+        },
+        {
+          "id": "half-elves",
+          "name": "Half-Elves",
+          "epithet": "The Deathless Middle of the Lonely Isle",
+          "camp": "Unbound (neutral)",
+          "description": "Born of the first tragic blending of elf and man, the Half-Elves carry the deathlessness of elves, ageless and slain only by violence, and the drive and worldly power of men. A small, ancient, isolated people, they keep to the Lonely Isle and hold the longest memory of any mortal-blooded folk. Within the elven story they are the neutral middle branch, set between the faithful Light Elves and the fallen Dark Elves. See also Aelinor (the Cast).",
+          "role": "A powerful, long-lived player-ancestry and a reclusive neutral people; keepers of the deep past.",
+          "powers": "Both the learned human art and the innate elven gift, deathless endurance, and unmatched living memory.",
+          "threat": "Varies (individuals High)",
+          "hooks": [
+            "The Lonely Isle has kept out of every war for an age; something has finally reached it, and its people must choose.",
+            "Only the half-elves remember a truth from before the Fall, and they are deeply reluctant to share it."
+          ],
+          "image": "characters-the-half-elf.jpg"
+        },
+        {
+          "id": "light-dwarves",
+          "name": "Light Dwarves",
+          "epithet": "The Steadfast Keepers of the Smith",
+          "camp": "Faithful",
+          "description": "Shaped by the Smith from stone and metal, the Light Dwarves are steadfast, insular master-crafters who keep to the Smith their maker. They are the most steadfast of all the Faithful, with forge-temples in the deep holds. Because the Smith's foundations endure when the light is gone, his children are the folk who last, holding their holds against the fading age with armor and stubbornness.",
+          "role": "A classic sturdy player-ancestry and a reliable ally people; guardians of the deep holds and great craft.",
+          "powers": "Master crafting and rune-work, deep-hold defense, resilience, and the most enduring faith in the setting.",
+          "threat": "Varies (individuals Moderate to High)",
+          "hooks": [
+            "A deep hold has sealed its gates and gone silent; the party is sent to learn whether it stands or has fallen.",
+            "The light dwarves guard a work of the Smith that the dark places have begun to covet."
+          ],
+          "image": "peoples-light-dwarf.jpg"
+        },
+        {
+          "id": "dark-dwarves",
+          "name": "Dark Dwarves",
+          "epithet": "The Cultists of the Stone Giants",
+          "camp": "Unbound (grey)",
+          "description": "The dwarves who broke away to worship the Smith's stone giants instead of the Smith, the Dark Dwarves are a grey, self-interested people: shifty and unreliable like the giant-gods they follow, kneeling to stone idols in the deep places. They are pointedly not Void-evil. They stand apart from the enemy's cults, a cautionary contrast: dark is not one thing, and greed is its own kind of danger.",
+          "role": "A morally grey people; untrustworthy potential allies, rivals, or mercenaries rather than outright villains.",
+          "powers": "Deep-earth craft and delving, hard bargaining, stone-giant cult rites, and a talent for looking after themselves.",
+          "threat": "Varies (individuals Moderate)",
+          "hooks": [
+            "The only guides through the deep ways are dark dwarves, and their price and their loyalty both change by the hour.",
+            "A dark-dwarf cult has woken something in the stone that even they cannot control."
+          ],
+          "image": "peoples-dark-dwarf.jpg"
+        },
+        {
+          "id": "men",
+          "name": "Men",
+          "epithet": "The Youngest and Most Divided",
+          "camp": "All three camps",
+          "description": "The One's younger children, short-lived, adaptable, and unpredictable, Men are the inheritors of the fading world and the most divided people of all, the one race that splits across all three camps at once. The enemy's cults recruit most easily among Men, yet so do the world's greatest champions. Nothing about a human's allegiance is fixed by birth, which is exactly why the fate of the age turns on them. For human faces, see the Cast (Corvane, Alaster, and others).",
+          "role": "The default player-ancestry and the great swing of the setting; humanity can be found in every camp.",
+          "powers": "Boundless adaptability and ambition, the learned wizardly art, and the widest range of any people, for good or ill.",
+          "threat": "Varies (individuals any)",
+          "hooks": [
+            "A single human kingdom's choice, faith, neutrality, or the dark, could tip a whole region in the turning age.",
+            "The same town holds a faithful temple, a neutral guild, and a hidden cult; the party arrives as all three come to a head."
+          ],
+          "images": [
+            "men-faithful.jpg",
+            "men-neutral.jpg",
+            "men-dark.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "natural",
+      "title": "The Natural Order",
+      "subtitle": "The Living World, Half-Awake",
+      "blurb": "The world's own powers, arrayed greatest to least, most of them kin to the Undivided gods who alone stayed bound to the world. They are a living barometer of the fading magic, the first to feel the light thin, and they belong for the most part to the neutral, grieving middle.",
+      "entries": [
+        {
+          "id": "tree-shepherds",
+          "name": "Tree-Shepherds",
+          "epithet": "The Wood Elementals of the Earth Mother",
+          "camp": "Unbound (Natural Order)",
+          "description": "Ancient ent-like shepherds of the wood, awakened by the Earth Mother and bound to the world's living body, the tree-shepherds are wounded most by the damage done to the world. Neutral but grieving, they are merciless to despoilers. They are among the greatest of the natural order, slow to wake and slow to act, but a terrible force once roused.",
+          "role": "Ancient neutral guardians of the deep wood; powerful allies to defenders of nature, doom to those who ravage it.",
+          "powers": "Immense strength, mastery of forest and growth, near-immovable endurance, the slow and total wrath of the wild.",
+          "threat": "High",
+          "hooks": [
+            "The party must persuade a slow, grieving shepherd of the wood to wake and act before the blight reaches its grove.",
+            "Loggers or a warband have wounded the Deepwood, and something very old and very angry is coming for them."
+          ],
+          "image": "natural-order-tree-shepherd.jpg"
+        },
+        {
+          "id": "stone-giants",
+          "name": "Stone Giants",
+          "epithet": "The Stone Elementals of the Smith",
+          "camp": "Unbound (grey)",
+          "description": "The elemental stone giants of the Smith are among the eldest beings of the world, tied to mountain and deep stone. Morally grey, neither evil nor good, they are aloof, shifty, and unreliable, and most keep to remote peaks. They are worshipped as gods by the dark dwarves, who broke from the Smith-faithful to kneel to them.",
+          "role": "Aloof, unpredictable powers of the high and deep places; obstacles, rare allies, or objects of a strange cult.",
+          "powers": "Colossal strength, mastery of stone and mountain, near-invulnerability, and utter indifference to mortal concerns.",
+          "threat": "High",
+          "hooks": [
+            "The mountain pass belongs to a stone giant who neither helps nor hinders, until someone gives it a reason.",
+            "A dark-dwarf cult's stone-giant god has begun, at last, to answer their prayers. That is the problem."
+          ],
+          "image": "natural-order-stone-giant.jpg"
+        },
+        {
+          "id": "river-spirits",
+          "name": "River-Spirits",
+          "epithet": "The Water Elementals, the Sea-Lord's Daughters",
+          "camp": "Unbound (Natural Order)",
+          "description": "The river-spirits are the Sea-Lord's water daughters, fickle as their father. They keep the light flowing through the world and unstagnant, the bloodstream of magic: dam, divert, or dry a river and the magic pools or starves with it. River-cults placate them for safe passage, for their favor is as changeable as any current.",
+          "role": "Capricious water-patrons tied to travel, trade, and the flow of magic itself; a river-cult's fickle gods.",
+          "powers": "Command of rivers and currents, blessing or cursing of passage, and control over the local flow of magic.",
+          "threat": "Moderate",
+          "hooks": [
+            "A river has been dammed, and the magic, and the land, is dying downstream; its spirit wants the dam gone.",
+            "Safe passage upriver requires the right rite to a spirit who has drowned the last three who got it wrong."
+          ],
+          "image": "natural-order-river-spirit.jpg"
+        },
+        {
+          "id": "owls",
+          "name": "Owls",
+          "epithet": "The Air Elementals, the Loremaster's Eyes",
+          "camp": "Unbound (Natural Order)",
+          "description": "The owls own the air and bring news to the Loremaster, the withdrawn witness. They are the eyes and ears through which the Chronicler sees the whole world, watchful and knowing far beyond ordinary birds. Where an owl watches, the record is being kept. They are the quietest and most far-seeing of the natural order.",
+          "role": "Messengers, watchers, and omens; a way for a wise NPC to see and speak across great distance.",
+          "powers": "Far-sight and flight, silent watching, the carrying of true news, and an uncanny awareness of hidden things.",
+          "threat": "Low",
+          "hooks": [
+            "An owl leads the party somewhere it clearly wants them to see, and will not be shooed away.",
+            "Someone is killing the owls of a region, and blinding a watcher no one knew was watching."
+          ],
+          "image": "natural-order-owl.jpg"
+        },
+        {
+          "id": "stag-folk",
+          "name": "Stag-Folk",
+          "epithet": "The Crowned Beast-Folk of the Open Wood",
+          "camp": "Unbound (Natural Order)",
+          "description": "Crowned, communal, and noble, the stag-folk are man-and-animal skin-changers of the open wood, one of the two beast-folk kindreds. Proud and wild, they live by ancient custom and stand against those who despoil the living world. They hold an ancient predator-and-prey tension with the great-cat-folk, their solitary opposites of the deep shadowed wood.",
+          "role": "A proud wild people; potential allies, a player-ancestry option, and stewards of the open wilds.",
+          "powers": "Skin-changing, wilderness mastery, communal war-bands, antlered strength, and deep bonds to the living wood.",
+          "threat": "Moderate",
+          "hooks": [
+            "The stag-folk will ally against a shared threat, but only after an old feud with the cat-folk is settled or set aside.",
+            "A stag-folk herd is fleeing a blight, and their flight is the first warning of what follows behind them."
+          ],
+          "image": "natural-order-stag-folk.jpg"
+        },
+        {
+          "id": "great-cat-folk",
+          "name": "Great-Cat-Folk",
+          "epithet": "The Solitary Beast-Folk of the Deep Wood",
+          "camp": "Unbound (Natural Order)",
+          "description": "Solitary, predatory, and aloof, the great-cat-folk are the second beast-folk kindred, skin-changers of the deep shadowed wood. Where the stag-folk are communal and crowned, the cat-folk hunt alone and answer to no herd. The ancient tension between the two kindreds is the wary predator-and-prey balance of the wild itself.",
+          "role": "Dangerous, independent wild-folk; wary allies, deadly rivals, or a solitary player-ancestry.",
+          "powers": "Skin-changing, silent hunting and ambush, solitary lethality, and an aloof mastery of the deep wood.",
+          "threat": "Moderate",
+          "hooks": [
+            "A great-cat-folk hunter has been shadowing the party for days, deciding whether they are prey, threat, or use.",
+            "Only a solitary cat-folk knows the safe path through the deep wood, and it works alone, for its own reasons."
+          ],
+          "image": "natural-order-great-cat-folk.jpg"
+        },
+        {
+          "id": "brownies",
+          "name": "Brownies",
+          "epithet": "The Hearth-Hobs, Least of the Small Folk",
+          "camp": "Unbound (Natural Order)",
+          "description": "Earthy little hearth-hobs and caretakers of homes, streams, and gardens, brownies are among the Earth Mother's least and most numerous awakenings. Mischievous but not cruel, fiercely tied to place, and repelled by cold iron, they are the last everyday enchantment ordinary folk still meet. Because they are made of the world's ambient magic, they wink out as the remnant fades, and their vanishing marks the dying of magic. They are counted among the Muses of the world. See also Wick (the Cast).",
+          "role": "Tiny comic-relief NPCs and companions; a living gauge of local magic and the earliest sign of blight.",
+          "powers": "Household enchantment, hiding and going unseen, small luck-magic, and an unerring sense for fading magic.",
+          "threat": "Low",
+          "hooks": [
+            "A homestead's brownie has gone quiet, and the family's luck is quietly failing along with it.",
+            "The party needs a brownie's help and must first mend the offense that made it sulk under the floorboards."
+          ],
+          "image": "natural-order-small-folk-brownie.jpg"
+        },
+        {
+          "id": "sprites",
+          "name": "Sprites",
+          "epithet": "The Fairy Muses of the World",
+          "camp": "Unbound (Natural Order)",
+          "description": "Small, bright fairy-spirits of the Earth Mother, sprites are the other half of the Small Folk and, with the brownies, the Muses of the world: the little spirits that kindle mortal art, music, and inspiration. As the light fades, inspiration itself goes quiet; where the sprites fall silent, the songs and the making stop. They flee or sicken where the enemy's blight spreads.",
+          "role": "Delicate wonder-NPCs tied to art and inspiration; enchanting guides and a poignant sign of the fading age.",
+          "powers": "Flight and glamour, illusion and inspiration, the kindling of art and the small magics of wild places.",
+          "threat": "Low",
+          "hooks": [
+            "A region's artists and bards have all fallen mute; the sprites that inspired them have vanished, and the party must learn where.",
+            "A grove of sprites still sings where all others have gone silent, and something is coming to snuff it out."
+          ],
+          "image": "natural-order-sprite-fairy.jpg"
+        }
+      ]
+    },
+    {
+      "key": "corrupted",
+      "title": "The Corrupted & The Lesser Divine",
+      "subtitle": "The Enemy's Works, and the Faithful Host",
+      "blurb": "True life belongs to the One, so the enemy cannot create, only twist, and what he twists is tainted with the Void. Against his corrupted works stand the Radiant, the lesser divine who kept faith when the heavens split. The demons among the Corrupted are their fallen kin.",
+      "entries": [
+        {
+          "id": "orcs",
+          "name": "Orcs",
+          "epithet": "Bred for War",
+          "camp": "Fallen's Legions",
+          "description": "A people mocked and bred for war, bound to the enemy's will, the orcs are twisted life made into weapons. They are the rank and file of the dark host, and the War-God's orc-hosts are his to command. They are not a fallen people who might return; they are a corruption shaped for a single purpose, and that purpose is ruin.",
+          "role": "The setting's core martial threat; the disposable, numberless soldiery of the dark.",
+          "powers": "Brutal strength and numbers, war-bred ferocity, discipline under dark command, and a hunger for slaughter.",
+          "threat": "Low individually (High in a host)",
+          "hooks": [
+            "Scattered orc raiding has suddenly become organized; someone, or something, is massing the hosts under one banner.",
+            "An orc war-band is driving refugees ahead of it, and the party is all that stands on the road between."
+          ],
+          "image": "corrupted-orcs.jpg"
+        },
+        {
+          "id": "trolls-ogres",
+          "name": "Trolls & Ogres",
+          "epithet": "Brute Mockeries of the Giants",
+          "camp": "Fallen's Legions",
+          "description": "Brute mockeries warped from giants or wild things, trolls and ogres are the heavy muscle of the dark: hulking, vicious, and hard to kill, twisted echoes of the elder giants they parody. Where orcs bring numbers, trolls and ogres bring raw destruction, the battering rams of the enemy's warbands.",
+          "role": "Heavy-hitter monsters; the elite brutes and siege-muscle of a dark force.",
+          "powers": "Enormous strength and toughness, brutal regeneration or resilience, and the power to break gates and lines alike.",
+          "threat": "Moderate to High",
+          "hooks": [
+            "A single troll has held a bridge for a week, and no ordinary blow keeps it down; the party must find what will.",
+            "Ogres have been set to tear down a warded wall the party needs to keep standing."
+          ],
+          "image": "corrupted-trolls-and-ogres.jpg"
+        },
+        {
+          "id": "demons",
+          "name": "Demons",
+          "epithet": "The Fallen Angels, Void-Fed",
+          "camp": "Fallen's Legions",
+          "description": "The lesser spirits and messengers who followed the enemy when the heavens split, demons are fallen angels now drawing on the Void. Same order as the Radiant, opposite end: kept faith on one side, followed the dark on the other. They are the enemy's spirit-soldiers, more terrible than any twisted flesh, and the dark counterpart of the faithful host.",
+          "role": "Supernatural elite antagonists; summoned or unleashed spirit-foes above the common horde.",
+          "powers": "Void-fed spirit-power, unnatural forms, corruption and terror, and abilities beyond mortal or beastly foes.",
+          "threat": "High",
+          "hooks": [
+            "A cult's rite has torn a way open, and a Void-fed spirit has stepped through into a place it should never reach.",
+            "A demon wears a trusted face; unmasking it is the first fight, banishing it the second."
+          ],
+          "image": "corrupted-demons.jpg"
+        },
+        {
+          "id": "war-chimeras",
+          "name": "War-Chimeras",
+          "epithet": "The Void-Twisted Beast-Folk",
+          "camp": "Fallen's Legions",
+          "description": "The only beast-folk that belong among the Corrupted, war-chimeras are the Void-twisted minority of the wild kindreds, warped from skin-changers into monstrous weapons of the dark. They are a tragedy as much as a threat: wild folk unmade into something they were never meant to be, turned against the living world they once belonged to.",
+          "role": "Tragic monster-antagonists; corrupted wild-folk that blur the line between foe and victim.",
+          "powers": "Twisted skin-changer power, savage hybrid forms, unnatural ferocity, and Void-touched resilience.",
+          "threat": "Moderate to High",
+          "hooks": [
+            "A beast-folk kindred is losing its own to the corruption, and begs the party to end, or somehow save, the taken.",
+            "Something wearing the shape of the wild's guardians is now hunting the wild itself."
+          ],
+          "image": "corrupted-war-chimeras.jpg"
+        },
+        {
+          "id": "radiant-angels",
+          "name": "Radiant Angels",
+          "epithet": "The Lesser Divine Who Kept Faith",
+          "camp": "Faithful",
+          "description": "The lesser spirits and messengers who served the gods and kept faith when the heavens split, the Radiant are the faithful half of a divided host. Their fallen kin are the demons among the Corrupted. With the gods withdrawn, the Radiant are rare, and their appearance is a sign that the light has not entirely left the world.",
+          "role": "Rare, awe-inspiring allies of the light; heralds, guardians, and a sign of hope in a darkening age.",
+          "powers": "Radiant power against the Void, flight and revelation, blessing and protection, and untainted divine purpose.",
+          "threat": "High",
+          "hooks": [
+            "A Radiant appears to the party with a warning or a charge, the first sign in an age that the light still watches.",
+            "One of the Radiant has been trapped or wounded by a cult that means to make an example of the light itself."
+          ],
+          "image": "lesser-divine-radiant-angel.jpg"
+        }
+      ]
+    },
+    {
+      "key": "places",
+      "title": "The Sundered World",
+      "subtitle": "Places & the Map",
+      "blurb": "The world-sundering duel of the Champion and the enemy broke the single paradise into a scattered globe: one great continent, two distant islands, and two polar extremes, divided by a storm-wracked ocean. The magic runs pole to pole, from a growing dark at one end to the last great light at the other, with mortal civilization strung in the temperate middle. On this map, geography is the clock.",
+      "entries": [
+        {
+          "id": "the-sundered-world",
+          "name": "The Sundered World",
+          "epithet": "The World Map",
+          "camp": "The whole world",
+          "description": "A single utopia, shattered. What survives is a scattered globe: the Central Continent, the great stage of the story; the far Elven Isle and the small Lonely Isle across the water; and the two poles, the Wound and the Wellspring, that are the rawest scars of the breaking. The magic gradient runs from pole to pole, not from any center outward. The dark grows from one end and the light lingers at the other, so where a place sits on the map tells you how much light is left in it.",
+          "role": "The campaign map and travel frame; the physical clock of the setting.",
+          "powers": "Sea-lanes across a perilous ocean, a north-to-south light gradient, and drowned ruins of paradise between the lands.",
+          "threat": "-",
+          "hooks": [
+            "Lay the party's home region on the gradient: the further north they go, the thinner and colder the world becomes.",
+            "A voyage between the lands is a campaign arc in itself, across the Broken Deep and its sunken past."
+          ],
+          "image": "maps-the-sundered-world-world-map.jpg"
+        },
+        {
+          "id": "the-wound",
+          "name": "The Wound",
+          "epithet": "The North Pole, Where the Void Seeps In",
+          "camp": "Fallen's Legions (region)",
+          "description": "Where the breaking cut deepest, the Wound is frozen, blighted, and thin of reality: the wellhead of cold and dark things, where the Void bleeds into the world. Its reach creeps outward, a little further south, with every age that the light fails. Nothing living belongs here for long. It is the source of the blight that is spreading down through the north.",
+          "role": "The setting's ultimate dark frontier; an end-game destination and the source of the creeping blight.",
+          "powers": "Void-thin reality, killing cold, corruption that spreads, and horrors that well up from the deep dark.",
+          "threat": "Cosmic (region)",
+          "hooks": [
+            "The blight the party keeps fighting all traces back to one source, and the trail runs north into the Wound.",
+            "Something the world needs, or must destroy, lies where no expedition has ever returned from."
+          ],
+          "image": "places-the-wound-north-pole.jpg"
+        },
+        {
+          "id": "the-wellspring",
+          "name": "The Wellspring",
+          "epithet": "The South Pole, the Last Great Light",
+          "camp": "Faithful (region)",
+          "description": "At the far south lingers the greatest remnant of the old light: luminous, holy, remote, and guarded, perhaps the loyal gods' last standing-place before they withdrew. It is the opposite pole to the Wound in every sense. As the light fails everywhere else, the Wellspring is the treasure the whole world is, knowingly or not, fighting over.",
+          "role": "The setting's holiest site and greatest prize; the light the Faithful guard and the dark most wants to snuff out.",
+          "powers": "The strongest surviving light in the world, holy power, and whatever guards a place the gods once stood.",
+          "threat": "Legendary (region)",
+          "hooks": [
+            "If the light can be saved anywhere, it is here, and the enemy knows it too.",
+            "A pilgrimage to the Wellspring is the Faithful's last hope; reaching it means crossing the whole failing world."
+          ],
+          "image": "places-the-wellspring-south-pole.jpg"
+        },
+        {
+          "id": "the-failing-marches",
+          "name": "The Failing Marches",
+          "epithet": "The Blighted North of the Continent",
+          "camp": "Faithful frontier",
+          "description": "The ruined homeland of a proud ancient kingdom of Men, the Failing Marches are going grey and frostbitten as the Wound's cold creeps down. The land is strewn with ruins of the old world and gnawed by orc-holds, dark things, and the first cults of the enemy. Yet its people endure as the Rangers of the North: few, weathered, and proud, the watchful guardians who hold the frontier of the world's slow loss. This is where the dark is felt first.",
+          "role": "The classic dark frontier and a strong starting region; where the campaign's threat is most visible.",
+          "powers": "A hard, ruined borderland of orc-holds, blighted ground, old-world ruins, and the first open cult activity.",
+          "threat": "High (region)",
+          "hooks": [
+            "The party begins here, where everyone else calls the creeping dark a rumor and the Rangers know better.",
+            "An old-world ruin in the Marches holds something the cults are also digging for."
+          ],
+          "image": "places-the-failing-marches.jpg"
+        },
+        {
+          "id": "the-deepwood",
+          "name": "The Deepwood",
+          "epithet": "The Ancient Western Wilds",
+          "camp": "Unbound (Natural Order)",
+          "description": "A vast, ancient forest older than the kingdoms, the Deepwood spreads below and beyond the Western Range. It is the home of the nature-folk and the Small Folk, and the place where the fading green magic still runs strong. Men skirt its edges and do not go deep. A dwindling enclave of elves who never sailed may still linger in its heart.",
+          "role": "The wilderness adventure region and the seat of the Natural Order; a place of old magic and older powers.",
+          "powers": "Deep living magic, awakened wild powers, hidden paths, and the wrath of the wood against despoilers.",
+          "threat": "High (region)",
+          "hooks": [
+            "The wild is the last strong reservoir of the green magic, and something is beginning to poison it at the roots.",
+            "Only a guide from the wild can lead the party through the Deepwood, and the wild does not give trust cheaply."
+          ],
+          "image": "places-the-deepwood.jpg"
+        },
+        {
+          "id": "the-hallowed-south",
+          "name": "The Hallowed South",
+          "epithet": "The Seat of the Faithful",
+          "camp": "Faithful (region)",
+          "description": "Warmer and brighter than anywhere else on the continent, the Hallowed South holds more of the old light and the greatest mainland remnant, where a god made its last stand before withdrawing. It is the seat of the Faithful, who guard the light and remember the gods. Here stand the great temples and the keepers of hope. It is the heart of the Faithful and, for that reason, a target.",
+          "role": "The religious and political heartland of the light; a hub for temple factions, pilgrims, and intrigue.",
+          "powers": "Holy sites and temple orders, the strongest mainland light, and the political weight of the old faith.",
+          "threat": "Moderate (region)",
+          "hooks": [
+            "The great relighting the whole story turns on is attempted here, and everyone is converging on it.",
+            "A schism inside the Faithful, or a cult buried within the temples, threatens the light from the inside."
+          ],
+          "image": "places-the-hallowed-south.jpg"
+        },
+        {
+          "id": "the-elven-isle",
+          "name": "The Elven Isle",
+          "epithet": "The Refuge Across the Sea",
+          "camp": "Faithful (region)",
+          "description": "The great refuge across the Broken Deep to which the Light Elves withdrew as the light failed, the Elven Isle is green, old, and quiet. It holds more of the fading light than the mainland does, and grieves its loss most keenly. It is a place apart, beautiful and sorrowful, that the mainland has half-forgotten and rarely reaches.",
+          "role": "A beautiful, melancholy elven destination; a haven of old magic, lore, and grief across the sea.",
+          "powers": "Deep elven magic and craft, preserved light, ancient lore, and the reserve of a people who keep to themselves.",
+          "threat": "Moderate (region)",
+          "hooks": [
+            "The party must cross the perilous Broken Deep to seek something only the elves have kept.",
+            "The Elven Isle debates whether to sail back into a war it fled, and the party's errand may tip that choice."
+          ],
+          "image": "places-the-elven-isle.jpg"
+        },
+        {
+          "id": "the-lonely-isle",
+          "name": "The Lonely Isle",
+          "epithet": "The Isle of the Half-Elves",
+          "camp": "Unbound (neutral)",
+          "description": "A small, remote island, the Lonely Isle is home to the half-elves who have endured since the first tragic blending of elf and man. Deathless unless slain, yet driven and worldly, they are keepers of the longest memory and of knowledge the mainland has forgotten. Isolated and half-passed into legend, the isle has kept out of the world's wars for an age. It is the home of Aelinor (see the Cast).",
+          "role": "A secretive, legend-haunted destination; the keepers of lost lore the campaign may need.",
+          "powers": "The longest living memory in the world, forgotten knowledge, and a small, deathless, formidable people.",
+          "threat": "Moderate (region)",
+          "hooks": [
+            "A truth from before the Fall, lost everywhere else, survives only in the memory of the Lonely Isle.",
+            "Something has finally reached the isle that kept itself apart for an age, and it can no longer stay out."
+          ],
+          "image": "places-the-lonely-isle.jpg"
+        },
+        {
+          "id": "the-broken-deep",
+          "name": "The Broken Deep",
+          "epithet": "The Sundering Ocean",
+          "camp": "Unbound (Sea-Lord)",
+          "description": "The great ocean between the lands, the Broken Deep is storm-wracked and studded with the drowned ruins of paradise, perilous to cross. It is the water that swallowed the old world when creation broke. Beneath it lies a drowned age, and over it broods the Sea-Lord, as changeable as the tides. Every voyage between the lands runs through it.",
+          "role": "The setting's great sea-crossing and underwater frontier; the barrier and bridge between all the lands.",
+          "powers": "Killing storms, drowned ruins full of old-world secrets, sea-monsters, and the moods of a capricious sea-god.",
+          "threat": "High (region)",
+          "hooks": [
+            "The sunken ruins of paradise hold treasures and horrors no one has reached in an age.",
+            "The only way to the isles is across the Deep, and the sea answers to a god who has not decided whether to help."
+          ],
+          "image": "places-the-broken-deep.jpg"
+        }
+      ]
+    },
+    {
+      "key": "orders",
+      "title": "The Six Orders",
+      "subtitle": "Factions of the Age",
+      "blurb": "Every institution in the world is defined by its relationship to the fading light and the withdrawn gods. Six families of order organize the age, reading also as three tiers: mortal, natural, and divine. For a table, these are the factions to join, serve, oppose, or play within.",
+      "entries": [
+        {
+          "id": "the-arcane-orders",
+          "name": "The Arcane Orders",
+          "epithet": "The Wizardly (mortal)",
+          "camp": "Faithful / Unbound (Deepening trends dark)",
+          "description": "The mortal wielders of the learned light-art are riven by the world's central crisis, that the light is finite and loud human magic burns it fastest. Three traditions cut across every kingdom: the Wardens, who hoard and ration the dying inheritance; the Free Art, who spend it boldly now for the world; and the Deepening, who hunt new sources and slide toward the Void. The three are locked in a doom-loop: the Free Art dims the light, the dimming starves and terrifies mages, the starved reach for the Deepening, and the Deepening feeds the dark. No order is simply right.",
+          "role": "The setting's wizard factions and the natural home of arcane player-characters; each tradition a different path and dilemma.",
+          "powers": "The full range of the learned light-art, from hoarded lore and mighty battle-magic to the forbidden edge of the Void.",
+          "threat": "Varies by member",
+          "hooks": [
+            "The party is pulled into the feud between a hoarding Warden and a bold Free Art archmage, and both have a point.",
+            "A promising young mage is drifting toward the Deepening. Reach them before the Void does."
+          ],
+          "image": "group-arcane-wizards.jpg"
+        },
+        {
+          "id": "the-devotional-orders",
+          "name": "The Devotional Orders",
+          "epithet": "The Faithful (mortal)",
+          "camp": "Faithful",
+          "description": "Priesthoods and temple-keepers sworn to individual gods, each bearing that god's dragon-sigil, the Faithful are seated in the Hallowed South and keep the withdrawn gods' holy places and the Wellspring, the last great light. Their faith is kept toward silence: they worship gods who left by choice and do not answer. Their crisis is that silence itself. When faith breaks under the fading light, it breaks toward the Void, which is why the Faithful are a front line in the war for mortal hope, and a recruiting ground for the dark.",
+          "role": "The setting's religious factions and the home of devout player-characters; a front line of hope against despair.",
+          "powers": "Temple hierarchies, dragon-sigil orders, keepers of the Wellspring, and the moral authority of the old faith.",
+          "threat": "Varies by member",
+          "hooks": [
+            "A temple is quietly losing its people to a comforting new cult, and its priests are beginning to doubt too.",
+            "The Wellspring, the last great light, is dimming, and the Faithful will do almost anything to protect it."
+          ],
+          "image": "group-devotional-priests.jpg"
+        },
+        {
+          "id": "the-martial-orders",
+          "name": "The Martial Orders",
+          "epithet": "The Sworn (mortal)",
+          "camp": "Faithful",
+          "description": "The sworn brotherhoods of the sword, most god-bound, hold the line by oath and courage while the light fades: the Champion's orders of valor and joy, the Sky-King's law-knights of duty and judgment, the Smith's shield-orders of the holds, and the Rangers of the North who guard the Failing Marches. Every martial order shares one hard truth: they are the sword-arm of gods who left, winning victories that only slow a fading they cannot reverse. Their glory is real, and shadowed by the same silence that tests the Faithful.",
+          "role": "The setting's knightly and warrior factions and the home of martial player-characters; oaths kept to absent patrons.",
+          "powers": "Disciplined warriors and knights, sworn brotherhoods, and the last steel holding the frontier of a dying age.",
+          "threat": "Varies by member",
+          "hooks": [
+            "A knightly order is down to its last few, and the party may be the ones to carry, or end, its oath.",
+            "The Rangers of the North need proof of the creeping dark that the comfortable south will finally believe."
+          ],
+          "image": "group-martial-knights.jpg"
+        },
+        {
+          "id": "the-void-orders",
+          "name": "The Void Orders",
+          "epithet": "The Dark (mortal)",
+          "camp": "Fallen's Legions",
+          "description": "The mortal institutions that serve the Void and the enemy's Host, having chosen the dark that does not fade: the Cults of the Fallen, threaded secretly through mortal society; the Dark-Mages, wizards who walked the Deepening all the way; the Dark Elves' covenants; and the god-cults of the Host, blood, blight, and fear. They offer the one thing a dying age cannot: a strength that never runs out. The price is the self, and the end is an oblivion almost none of them understand they serve. They join the power that is killing the world in order to escape a dying world.",
+          "role": "The setting's core villain factions and the hidden hand behind the campaign; a dark path for morally grey play.",
+          "powers": "Void-sorcery that never fades, secret cult networks, dark-elf covenants, and the enemy's reach into mortal society.",
+          "threat": "Varies by member",
+          "hooks": [
+            "The cult the party is hunting is only one cell of a network that answers, through many layers, to a single hidden will.",
+            "A respected figure in town is a cult initiate, and pulling that thread unravels far more than one traitor."
+          ],
+          "image": "group-void-cult.jpg"
+        },
+        {
+          "id": "the-natural-order",
+          "name": "The Natural Order",
+          "epithet": "The Awakened World (natural)",
+          "camp": "Unbound (Natural Order)",
+          "description": "The living world's own order, arrayed greatest to least: the great Elementals (tree-shepherds, stone giants, river-spirits, and owls), the beast-folk kindreds, and the Small Folk who are the Muses of the world. Its members are the world's own powers, mostly kin to the Undivided gods. Rooted in the Deepwood and the wild places, the natural order is a living barometer of the fading magic, the first to feel the light thin. The schism runs through it too: faithful green things, grieving feral things, and Void-blighted things.",
+          "role": "The setting's wilderness faction and a source of nonhuman allies, patrons, and player-ancestries.",
+          "powers": "The combined might of Elementals, beast-folk, and Small Folk; the wild's own defense of the living world.",
+          "threat": "Varies by member",
+          "hooks": [
+            "The wild is waking against the blight, and it does not distinguish carefully between despoilers and bystanders.",
+            "The party must broker peace or alliance among the wild's proud, quarrelsome powers before the dark reaches the Deepwood."
+          ],
+          "image": "group-natural-order.jpg"
+        },
+        {
+          "id": "the-pantheon-their-dragons",
+          "name": "The Pantheon & Their Dragons",
+          "epithet": "The Divine (the apex order)",
+          "camp": "All three houses",
+          "description": "The divine order is the source and summit all the others orient around, and also the most absent: the Withdrawn kept faith and left, the Undivided refused the war and fell to mortality, and the Fallen's Host turned to the dark. The order that should crown the world has, one way or another, vacated it. Its living thread through everything is the dragons, each god's firstborn, worn by mortals as sigil and heraldry. Every temple, college, brotherhood, and cult flies a dragon, so the whole six-order structure is, in the end, heraldry hung on the firstborn of vanished gods.",
+          "role": "The cosmological frame behind every faction; the gods and dragons whose absence and heraldry shape the whole world.",
+          "powers": "The full power of the twelve gods and their dragon-lines, present in the world now mainly through proxies and signs.",
+          "threat": "Cosmic",
+          "hooks": [
+            "A sign in the heavens sets every faction arguing whether the gods are returning or the enemy is rising.",
+            "Recovering a lost dragon-sigil could rally, or shatter, the fragile order of an entire region."
+          ],
+          "image": "group-pantheon.jpg"
+        }
+      ]
+    }
+  ]
+}

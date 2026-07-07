@@ -1,0 +1,9 @@
+Read AGENTS.md before doing anything. It is the source of truth for this project.
+
+Hard rules:
+- Never use the em dash character. Use a comma, colon, semicolon, period, or parentheses. This holds in ALL in-world text. There is a test that fails on em dashes.
+- Keep the story engine dependency-free and typed. Do not add a heavy narrative framework without a note in AGENTS.md.
+- All new story nodes must keep `npm test` green: every choice `to` must resolve, every node must be reachable, and at least one end must exist.
+- Voice is the Chronicler: calm, precise, weighty, elegiac. No hype, no exclamation points, no emojis.
+- Brand palette: Void Black #0a0b0f, Ember Gold #c8a865 / #e6ca8c, Parchment #e9e3d6. Fonts: Cinzel (display), Cormorant Garamond (body).
+- Run `npm test` and `npm run build` before declaring a task done.

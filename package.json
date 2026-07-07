@@ -1,0 +1,22 @@
+{
+  "name": "fallen-wyrms-dispatches",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fallen Wyrms: Dispatches: a choice-driven interactive-fiction MVP in the Chronicler's voice.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.1"
+  }
+}
