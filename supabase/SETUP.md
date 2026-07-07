@@ -1,35 +1,40 @@
 # Supabase setup for Dispatches
 
+Project: **sdfrazqtlpdcxckfdpyi**  
+Dashboard SQL editor: [Open SQL Editor](https://supabase.com/dashboard/project/sdfrazqtlpdcxckfdpyi/sql/new)
+
 One-time setup to enable cross-device resume, newsletter signup, and choice analytics.
 
-## 1. Apply the schema
+## 1. Apply the schema (required once)
 
-In your [Supabase dashboard](https://supabase.com/dashboard) → **SQL Editor** → **New query**, paste the contents of:
+In the SQL Editor link above, paste the full contents of:
 
 ```
 supabase/migrations/001_initial.sql
 ```
 
-Run the query. You should see three tables: `subscribers`, `reading_progress`, `choice_events`.
+Click **Run**. You should see three tables: `subscribers`, `reading_progress`, `choice_events`.
 
 Verify in **Table Editor** that RLS is enabled on each table.
 
-## 2. Configure the app
+**Production:** GitHub Actions secrets `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` are already set. After you run the SQL, redeploy is automatic on the next push, or run the deploy workflow manually.
 
-Copy the example env file:
+## 2. Configure local dev (optional)
+
+Copy the example env file if you do not already have `.env`:
 
 ```bash
 cp .env.example .env
 ```
 
-Fill in from **Project Settings → API**:
+Fill in from **Project Settings → API** (same values as GitHub secrets):
 
 | Variable | Source |
 |----------|--------|
 | `VITE_SUPABASE_URL` | Project URL |
 | `VITE_SUPABASE_ANON_KEY` | `anon` / publishable key |
 
-Never commit `.env`. Rebuild or restart the dev server after changing env vars.
+Never commit `.env`. Restart `npm run dev` after changing env vars.
 
 ## 3. Smoke test
 

@@ -20,15 +20,13 @@ HTTPS is required for install; GitHub Pages provides it.
 
 ## Supabase on production
 
-To enable subscribe, progress sync, and analytics on the live site:
+GitHub Actions secrets are configured. **One step left:** run the schema SQL once.
 
-1. Apply `supabase/migrations/001_initial.sql` (see `supabase/SETUP.md`).
-2. In GitHub: **Settings → Secrets and variables → Actions**, add:
-   - `VITE_SUPABASE_URL`
-   - `VITE_SUPABASE_ANON_KEY`
-3. Re-run the deploy workflow (**Actions → Deploy to GitHub Pages → Run workflow**) or push any commit to `main`.
+1. Open [Supabase SQL Editor](https://supabase.com/dashboard/project/sdfrazqtlpdcxckfdpyi/sql/new)
+2. Paste `supabase/migrations/001_initial.sql` and click **Run**
+3. Wait for the deploy workflow to finish (or trigger it manually)
 
-Without secrets, the live game still works; saves stay in the browser only.
+After that, subscribe, progress sync, and choice analytics work on the live site. See `supabase/SETUP.md`.
 
 ## Manual deploy (local)
 
